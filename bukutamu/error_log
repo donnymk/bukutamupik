@@ -1,0 +1,31 @@
+[18-Jul-2017 08:25:12 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'bpsdmdja_upubusr'@'localhost' (using password: YES) in /home/bpsdmdjateng/public_html/bukutamu/plugins/config2.php on line 2
+[18-Jul-2017 08:25:12 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bpsdmdjateng/public_html/bukutamu/process.php on line 29
+[18-Jul-2017 08:25:23 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'bpsdmdja_upubusr'@'localhost' (using password: YES) in /home/bpsdmdjateng/public_html/bukutamu/plugins/config2.php on line 2
+[18-Jul-2017 08:25:24 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bpsdmdjateng/public_html/bukutamu/process.php on line 29
+[18-Jul-2017 08:25:43 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'bpsdmdja_upubusr'@'localhost' (using password: YES) in /home/bpsdmdjateng/public_html/bukutamu/plugins/config2.php on line 2
+[18-Jul-2017 08:25:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bpsdmdjateng/public_html/bukutamu/process.php on line 29
+[18-Jul-2017 08:26:05 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'bpsdmdja_upubusr'@'localhost' (using password: YES) in /home/bpsdmdjateng/public_html/bukutamu/plugins/config2.php on line 2
+[18-Jul-2017 08:26:05 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bpsdmdjateng/public_html/bukutamu/process.php on line 29
+[18-Jul-2017 08:26:51 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'bpsdmdja_upubusr'@'localhost' (using password: YES) in /home/bpsdmdjateng/public_html/bukutamu/plugins/config2.php on line 2
+[18-Jul-2017 08:26:51 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bpsdmdjateng/public_html/bukutamu/process.php on line 29
+[18-Jul-2017 09:01:01 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'bpsdmdja_upubusr'@'localhost' (using password: YES) in /home/bpsdmdjateng/public_html/bukutamu/plugins/config2.php on line 2
+[18-Jul-2017 09:01:01 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bpsdmdjateng/public_html/bukutamu/process.php on line 29
+[18-Jul-2017 09:01:33 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'bpsdmdja_upubusr'@'localhost' (using password: YES) in /home/bpsdmdjateng/public_html/bukutamu/plugins/config2.php on line 2
+[18-Jul-2017 09:01:33 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bpsdmdjateng/public_html/bukutamu/process.php on line 29
+[24-Jul-2017 02:13:31 UTC] PHP Warning:  include(login_user_proses.php): failed to open stream: No such file or directory in /home/bpsdmdjateng/public_html/bukutamu/login.php on line 2
+[24-Jul-2017 02:13:31 UTC] PHP Warning:  include(login_user_proses.php): failed to open stream: No such file or directory in /home/bpsdmdjateng/public_html/bukutamu/login.php on line 2
+[24-Jul-2017 02:13:31 UTC] PHP Warning:  include(): Failed opening 'login_user_proses.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bpsdmdjateng/public_html/bukutamu/login.php on line 2
+[24-Jul-2017 03:35:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bpsdmdjateng/public_html/bukutamu/proses.php:33) in /home/bpsdmdjateng/public_html/bukutamu/proses.php on line 34
+[24-Jul-2017 03:37:24 UTC] PHP Notice:  Undefined index: username in /home/bpsdmdjateng/public_html/bukutamu/proses.php on line 5
+[24-Jul-2017 03:37:24 UTC] PHP Notice:  Undefined index: password in /home/bpsdmdjateng/public_html/bukutamu/proses.php on line 6
+[24-Jul-2017 03:37:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bpsdmdjateng/public_html/bukutamu/proses.php:5) in /home/bpsdmdjateng/public_html/bukutamu/proses.php on line 34
+[24-Jul-2017 03:38:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bpsdmdjateng/public_html/bukutamu/proses.php:28) in /home/bpsdmdjateng/public_html/bukutamu/proses.php on line 29
+[24-Jul-2017 03:39:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bpsdmdjateng/public_html/bukutamu/proses.php:33) in /home/bpsdmdjateng/public_html/bukutamu/proses.php on line 34
+[24-Jul-2017 04:38:46 UTC] PHP Warning:  include(../plugins/config.php): failed to open stream: No such file or directory in /home/bpsdmdjateng/public_html/bukutamu/tabeltamu.php on line 2
+[24-Jul-2017 04:38:46 UTC] PHP Warning:  include(../plugins/config.php): failed to open stream: No such file or directory in /home/bpsdmdjateng/public_html/bukutamu/tabeltamu.php on line 2
+[24-Jul-2017 04:38:46 UTC] PHP Warning:  include(): Failed opening '../plugins/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bpsdmdjateng/public_html/bukutamu/tabeltamu.php on line 2
+[24-Jul-2017 11:38:46 Asia/Jakarta] PHP Notice:  Undefined variable: con in /home/bpsdmdjateng/public_html/bukutamu/tabeltamu.php on line 13
+[24-Jul-2017 11:38:46 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bpsdmdjateng/public_html/bukutamu/tabeltamu.php on line 13
+[24-Jul-2017 11:38:46 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/bpsdmdjateng/public_html/bukutamu/tabeltamu.php on line 14
+[28-Jul-2017 17:26:34 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Permission denied in /home/bpsdmdjateng/public_html/bukutamu/plugins/config.php on line 2
+[28-Jul-2017 22:25:04 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Permission denied in /home/bpsdmdjateng/public_html/bukutamu/plugins/config.php on line 2

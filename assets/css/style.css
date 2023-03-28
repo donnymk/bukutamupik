@@ -1,0 +1,82 @@
+
+.header{
+    /*background-color: #449d44;*/
+    /*background-color: seagreen;*/
+    /*background: -webkit-linear-gradient(45deg, #006666, #00CC66);
+    background: -moz-linear-gradient(45deg, #006666, #00CC66);
+    background: -o-linear-gradient(45deg, #006666, #00CC66);
+    background: linear-gradient(45deg, #006666, #00CC66);*/
+    /*color: #FFFFFF;*/
+    padding-top: 10px;
+    padding-bottom: 6px;
+}
+
+.judul{
+    color: #761c19;
+}
+
+.kotakpanel{
+    /*background-color: #c1e2b3;*/
+    background: url("../../assets/img/texture-bg - Copy.jpg");
+    padding-bottom: 18px;
+    box-shadow: 4px;
+    /*border: 1px solid #444;*/
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 24px;
+  line-height: 1.428571429;
+  border-radius: 15px;
+  
+}
+
+.btn-circle.btn-xl {
+  width: 200px;
+  height: 200px;
+  padding: 10px 16px;
+  font-size: 140px;
+  line-height: 1.33;
+  border-radius: 115px;
+}
+
+.btn:hover {
+/*  width: 200px;
+  height: 200px;
+  padding: 10px 16px;
+  font-size: 140px;
+  line-height: 1.33;
+  border-radius: 115px;*/
+  
+  box-shadow: 4px 4px 2px #888888;
+}
+
+#puas {
+    border: 4px solid #449d44;
+}
+#tdkpuas {
+    /*border:4px solid #c9302c;*/
+    border: 4px solid #ec971f;
+}
+
+@media screen and (max-width: 1024px){
+    .header{
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .col-md-1{
+        display: none;
+    }
+}
+@media screen and (max-width: 640px){
+    h2{
+       font-size: 16pt;
+    }
+    h3{
+       font-size: 14pt;
+    }
+}
